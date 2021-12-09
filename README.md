@@ -9,7 +9,9 @@ In short:
 - install latest JDK
 - install [node js](https://nodejs.org) and [npm](https://www.npmjs.com/)
 - install [Android Studio](https://developer.android.com/studio/index.html)
-- configure Android Studio:
+- configure Android Studio
+
+To configure Android Studio you have to:
   1) Tools => SDK Manager => Android SDK Location => install Android SDK (next, next, etc). 
      For Windows, this will install the SDK package at location `C:\Users\[username]\AppData\Local\Android\Sdk`
   

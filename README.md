@@ -36,5 +36,5 @@ To configure Android Studio you have to:
 
 ## Running the application
 Clone this project in your folder.
-Start `cmd` as administrator, move to project folder, enter command `npx react-native run-android`.
+Start `cmd` as administrator, move to project folder, enter command `npx react-native start`.
 Let this run in its own window, open another `cmd` as administrator and run `npx react-native run-android`
